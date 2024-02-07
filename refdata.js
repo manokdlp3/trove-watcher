@@ -64,7 +64,6 @@ CONSUMABLES[19] = "Durable Booster";
 CONSUMABLES[20] = "Anabolic Booster";
 CONSUMABLES[21] = "Overclocked Booster";
 CONSUMABLES[22] = "Zeeverse Ancient Permit";
-CONSUMABLES[23] = "Test";
 
 const SMOLTREASURES = new Array();
 SMOLTREASURES[1] = "Moon Rock";
