@@ -6,7 +6,7 @@
 
 const wallet = require('./json/wallet.json');
 const Web3 = require('web3');
-const web3 = new Web3(wallet.wss_alchemy);
+const web3 = new Web3(wallet.wss_url);
 const colors = require('colors');
 const helper = require('./helper');
 const contracts = require('./contracts/contracts');

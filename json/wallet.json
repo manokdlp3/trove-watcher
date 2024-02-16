@@ -1,8 +1,3 @@
 {
-    "rpc_ankr": "https://rpc.ankr.com/arbitrum/{replace with your own API KEY}",
-    "rpc_infura": "https://arbitrum-mainnet.infura.io/v3/{replace with your own API KEY}",
-    "rpc_alchemy": "https://arb-mainnet.g.alchemy.com/v2/{replace with your own API KEY}",
-    "wss_moralis": "wss://speedy-nodes-nyc.moralis.io/{replace with your own API KEY}/arbitrum/mainnet/ws",
-    "wss_ankr": "wss://rpc.ankr.com/arbitrum/ws/{replace with your own API KEY}",
-    "wss_alchemy": "wss://arb-mainnet.g.alchemy.com/v2/{replace with your own API KEY}"
+    "wss_url": "wss://arb-mainnet.g.alchemy.com/v2/{replace with your own API KEY}"
 }
