@@ -1,8 +1,8 @@
 {
-    "rpc_ankr": "https://rpc.ankr.com/arbitrum/{replace with your own API KEY}",
-    "rpc_infura": "https://arbitrum-mainnet.infura.io/v3/{replace with your own API KEY}",
-    "rpc_alchemy": "https://arb-mainnet.g.alchemy.com/v2/{replace with your own API KEY}",
-    "wss_moralis": "wss://speedy-nodes-nyc.moralis.io/{replace with your own API KEY}/arbitrum/mainnet/ws",
-    "wss_ankr": "wss://rpc.ankr.com/arbitrum/ws/{replace with your own API KEY}",
-    "wss_alchemy": "wss://arb-mainnet.g.alchemy.com/v2/{replace with your own API KEY}"
+    "rpc_ankr": "https://rpc.ankr.com/arbitrum/b8fb05ee9283d010fe2d30791240e34e0c9ec4982c578af25a99c52c9ae13df7",
+    "rpc_infura": "https://arbitrum-mainnet.infura.io/v3/ed2fc69f9fd04f9f940cf58087e6b132",
+    "rpc_alchemy": "https://arb-mainnet.g.alchemy.com/v2/OMwwe5dQJF_KE8GEVpizo0mpv38r5GEL",
+    "wss_moralis": "wss://speedy-nodes-nyc.moralis.io/fc463150e0cb09d3782e57db/arbitrum/mainnet/ws",
+    "wss_ankr": "wss://rpc.ankr.com/arbitrum/ws/b8fb05ee9283d010fe2d30791240e34e0c9ec4982c578af25a99c52c9ae13df7",
+    "wss_alchemy": "wss://arb-mainnet.g.alchemy.com/v2/OMwwe5dQJF_KE8GEVpizo0mpv38r5GEL"
 }
